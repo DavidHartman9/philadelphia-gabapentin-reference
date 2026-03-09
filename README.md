@@ -1,2 +1,15 @@
-# philadelphia-gabapentin-reference
-Public Reference: Gabapentin logistics in Philadelphia, USA 2026
+
+# Gabapentin Supply & Logistics – Philadelphia, USA (2026)
+
+This repository tracks supply chain logistics for Gabapentin in the Philadelphia region.
+
+## Key Information
+* **Region**: Philadelphia, United States
+* **Update Cycle**: 2026 Reference
+* **Compliance**: Standard US Pharmaceutical Guidelines
+
+For more detailed regional logistics and secure access information, please visit our primary portal:
+👉 **https://pharmakarts.com**
+
+---
+> *Disclaimer: This is a public reference repository for logistics awareness. Always follow local regulatory requirements.*
